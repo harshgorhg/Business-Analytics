@@ -1,0 +1,82 @@
+[
+  {
+    "room": 1,
+    "time": "1:00 AM"
+  },
+  {
+    "room": 2,
+    "time": "2:00 AM"
+  },
+  {
+    "room": 3,
+    "time": "3:00 AM"
+  },
+  {
+    "room": 4,
+    "time": "4:00 AM"
+  },
+  {
+    "room": 5,
+    "time": "5:00 AM"
+  },
+  {
+    "room": 6,
+    "time": "6:00 AM"
+  },
+  {
+    "room": 7,
+    "time": "7:00 AM"
+  },
+  {
+    "room": 8,
+    "time": "8:00 AM"
+  },
+  {
+    "room": 9,
+    "time": "9:00 AM"
+  },
+  {
+    "room": 10,
+    "time": "10:00 AM"
+  },
+  {
+    "room": 11,
+    "time": "11:00 AM"
+  },
+  {
+    "room": 12,
+    "time": "12:00 PM"
+  },
+  {
+    "room": 13,
+    "time": "1:00 PM"
+  },
+  {
+    "room": 14,
+    "time": "2:00 PM"
+  },
+  {
+    "room": 15,
+    "time": "3:00 PM"
+  },
+  {
+    "room": 16,
+    "time": "4:00 PM"
+  },
+  {
+    "room": 17,
+    "time": "5:00 PM"
+  },
+  {
+    "room": 18,
+    "time": "6:00 PM"
+  },
+  {
+    "room": 19,
+    "time": "7:00 PM"
+  },
+  {
+    "room": 20,
+    "time": "8:00 PM"
+  }
+]
